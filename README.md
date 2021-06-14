@@ -1,5 +1,3 @@
-I'm learning at the moment Elixir
-
 <div>
   <a href="https://www.instagram.com/lpbborges93" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto: luizpaulobborges@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="Gmail" /></a>
